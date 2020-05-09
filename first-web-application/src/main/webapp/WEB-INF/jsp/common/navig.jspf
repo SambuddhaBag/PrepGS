@@ -1,0 +1,15 @@
+<nav role="navigation" class="navbar navbar-default">
+	<div class="">
+		<a class="navbar-brand" style="color: fuchsia;height: inherit;">DeMoNdRiVe</a>
+	</div>
+	<div class="navbar-collapse">
+		<ul class="nav navbar-nav">
+			<li ><a href="/" style="color:navy;">Home</a></li>
+			<li class="active" ><a href="/list-todos" style="color:navy;">Todos</a></li>
+
+		</ul>
+		<ul class="nav navbar-nav navbar-right">
+			<li ><a href="/logout" style="color:red;">Logout</a></li>
+		</ul>
+	</div>
+</nav>
